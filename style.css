@@ -1,0 +1,43 @@
+#responsive,perform,double,column{
+  height: 100%;
+  width: 100%;
+  margin: 0px auto;
+}
+#responsive_container{
+  top :30%; 
+  position:absolute;
+  height: 70%;
+  width: 45%;
+  margin: 0px auto;
+  border:7px solid black;
+  border-radius:7px;
+}
+#perform_container{
+  top :30%; 
+  left:50%;
+  position:absolute;
+  height: 70%;
+  width: 45%;
+  margin: 0px auto;
+  border:7px solid black;
+  border-radius:7px;
+}
+#double_container{
+  position:absolute;
+  top :110%; 
+  height: 70%;
+  width: 45%;
+  margin: 0px auto;
+  border:7px solid black;
+  border-radius:7px;
+}
+#column_container{
+  left:50%;
+  top :110%;  
+  position:absolute;
+  height: 70%;
+  width: 45%;
+  margin: 0px auto;
+  border:7px solid black;
+  border-radius:7px;
+}
